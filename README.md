@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anhad Sodhi</h1>
-<h3 align="center">A passionate software developer studying at the University of British Columbia</h3>
+<h3 align="center">A passionate software developer studying at the British Columbia Institute of Technology</h3>
 
 - 🔭 I’m currently working on **a hyperlocal events app for small businesses with Soul Surfer Software**
 

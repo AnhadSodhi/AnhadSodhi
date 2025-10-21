@@ -19,8 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anhad-sodhi-16459729b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anhad-sodhi-16459729b" height="30" width="40" /></a>
-<a target="blank" href="#" onclick="navigator.clipboard.writeText('frost.ee'); alert('Discord username copied!');"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frost.ee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anhad-sodhi-16459729b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anhad-sodhi-16459729b" height="30" width="40" /></a> <strong>anhad-sodhi-16459729b</strong>
+<br>
+<br>
+<a href="https://discord.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> <strong>frost.ee</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

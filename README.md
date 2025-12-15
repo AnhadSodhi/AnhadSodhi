@@ -9,13 +9,13 @@
 
 - 👨‍💻 See my interactive 3D portfolio at [anhadsodhi.github.io](anhadsodhi.github.io)
 
-- 💬 Ask me about **React Native and Unity**
+- 💬 Ask me about **Unity and Raycast**
 
 - 📫 Contact me at **anhadsodhi2005@gmail.com**
 
 - 📄 See my resume [here](https://drive.google.com/file/d/1Yv4XCaOARlCKp9Pou3g9G_4WXFUL9zaZ)
 
-- ⚡ Fun fact: **my favourite language is C#, but I mainly use Python for its ease of use and vast library support.**
+- ⚡ Fun fact: **I am currently developing an extension for the Raycast open-source project. Check it out [here](https://github.com/AnhadSodhi/Windows-Command-Line-Script-Saver)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

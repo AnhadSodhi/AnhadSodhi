@@ -15,7 +15,7 @@
 
 - 📄 See my resume [here](https://drive.google.com/file/d/1Yv4XCaOARlCKp9Pou3g9G_4WXFUL9zaZ)
 
-- ⚡ Fun fact: **I am currently developing an extension for the Raycast open-source project. Check it out [here](https://github.com/AnhadSodhi/Windows-Command-Line-Script-Saver)**
+- ⚡ **Check out my fun VSCode extension [here](https://marketplace.visualstudio.com/items?itemName=VibeCat.vibecat)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

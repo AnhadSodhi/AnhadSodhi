@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **landing an intership from January - August 2026 🙏**
 
-- 👨‍💻 See my interactive 3D portfolio at [anhadsodhi.github.io](anhadsodhi.github.io)
+- 👨‍💻 See my interactive 3D portfolio at [anhadsodhi.dev](anhadsodhi.dev)
 
 - 💬 Ask me about **Unity and Raycast**
 
@@ -19,10 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anhad-sodhi-16459729b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anhad-sodhi-16459729b" height="30" width="40" /></a> <strong>anhad-sodhi-16459729b</strong>
+<a href="https://www.linkedin.com/in/anhad-sodhi-16459729b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anhadsodhi" height="30" width="40" /></a> <strong>anhadsodhi</strong>
 <br>
-<br>
-<a href="https://discord.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> <strong>frost.ee</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

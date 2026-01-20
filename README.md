@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **landing an intership from January - August 2026 🙏**
 
-- 👨‍💻 See my interactive 3D portfolio at [anhadsodhi.dev](anhadsodhi.dev)
+- 👨‍💻 See my interactive 3D portfolio at [anhadsodhi.dev](https://anhadsodhi.dev)
 
 - 💬 Ask me about **Unity and Raycast**
 
